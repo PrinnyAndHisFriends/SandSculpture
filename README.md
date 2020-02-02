@@ -9,6 +9,8 @@ Its a sand sculpture repairing game, you can repair the sculpture or destroy it!
 ## 2020年 Global Game Jam 作品
 ## 主题：Repair (修复，和好）
 
+划重点！！！这是**一个人**做的！！
+
 ### 策划：
 Prinny 凌霄
 ### 美术：
