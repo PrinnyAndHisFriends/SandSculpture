@@ -4,12 +4,9 @@
 
 Its a sand sculpture repairing game, you can repair the sculpture or destroy it! no ending, no sound, maybe 20s you can finish the game or never because of the bad handle and lots of awful bugs l make this game by myself and all the assets are downloaded from unity assetstore
 
-我不会说本来这是一个守候的故事，结果做动画进度太慢就变成沙雕游戏了
 
-## 2020年 Global Game Jam 作品
-## 主题：Repair (修复，和好）
-
-划重点！！！这是**一个人**做的！！
+## 2020年 Global Game Jam 作品（瞎玩玩开心就好）
+## 主题：Repair
 
 ### 策划：
 Prinny 凌霄
